@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.6":{"hashes":[["/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/atomicInteger/src/test/scala/AtomicIntegerTest.scala","155838430b8bcdb01735ae0724729b04fa1e7510"]],"lastModifiedTimes":[]}}]
