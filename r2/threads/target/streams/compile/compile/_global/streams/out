@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/threads/src/main/scala/Threads.scala:39:27: not found: value a[0m
+[0m[[0m[31merror[0m] [0m[0m            result(i) = f(a(i));[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
