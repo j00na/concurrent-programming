@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSimpleAtomicReferenceTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should update value to 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should make sure that only one thread considers writing successful if they race[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not update the value when the test fails[0m[0m

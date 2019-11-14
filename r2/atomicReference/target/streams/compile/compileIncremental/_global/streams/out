@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/atomicReference/src/main/scala/SimpleAtomicReference.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(atomicReference.SimpleAtomicReference)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(atomicReference.SimpleAtomicReference)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/atomicReference/src/main/scala/SimpleAtomicReference.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: atomicReference.SimpleAtomicReference[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding atomicReference.SchedulableAtomicReference by atomicReference.SimpleAtomicReference[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/atomicReference/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.3.1:compile for Scala 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.3.1:compile for Scala 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 62b79401 for Scala compiler version 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/joona/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/atomicReference/target/scala-2.12/classes:/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/atomicReference/lib/scala-debug-concurrent_2.12-1.0-tests.jar:/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r2/atomicReference/lib/scala-debug-concurrent_2.12-1.0.jar:/home/joona/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar:/home/joona/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.470321843 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
