@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r3/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:39:10: value synchized is not a member of simpleCountdownLatch.SimpleCountDownLatch[0m
+[0m[[0m[31merror[0m] [0m[0m    this.synchized {[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

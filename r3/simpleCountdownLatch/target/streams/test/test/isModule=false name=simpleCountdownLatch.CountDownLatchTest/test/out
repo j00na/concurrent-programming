@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCountDownLatchTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should be zero after completing counting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should be not be zero if the number of threads are less than initCount[0m[0m
