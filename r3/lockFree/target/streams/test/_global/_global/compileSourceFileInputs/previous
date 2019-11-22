@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.6":{"hashes":[["/home/joona/Documents/files_from_mac/Aalto/concurrent-programming/r3/lockFree/src/test/scala/LockFreeStackTest.scala","5f320ad1d176d34d2040129f076e899d6ee25e69"]],"lastModifiedTimes":[]}}]
