@@ -32,13 +32,9 @@ class LockFreeStack[E](capacity: Int) extends LockFreeMonitor {
   // Do not add other variables
 
   def push(e: E): Unit = {
-    if (top.get == null) {
-      top.compareAndSet(null, new Node(e))
-    } else {
-      var old = top.get
-      top.compareAndSet(old, new Node(e))
-      top.get.next = old
-    }
+    var old = top.get
+    top.compareAndSet(old, new Node(e))
+    top.get.next = old
   }
 
   def pop(): E = {
